@@ -15,7 +15,7 @@
   },
   "devDependencies": {
     "@calltheguys/ctg-slate-tools": "latest",
-    "babel-preset-shopify": "latest",
+		"babel-preset-shopify": "^16.7.0",
     "eslint-plugin-shopify": "latest",
     "stylelint-config-prettier": "latest",
     "stylelint-config-shopify": "latest"
