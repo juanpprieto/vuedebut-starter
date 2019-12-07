@@ -1,6 +1,6 @@
 {
   "name": "vuedebut-starter",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": true,
   "author": "CallTheGuys x Shopify Inc.",
   "description": "An custom, Slate compatible, starting point for developing Shopify themes.",
@@ -15,7 +15,7 @@
     "url": "https://github.com/juanpprieto/vuedebut-starter.git"
   },
   "devDependencies": {
-    "@calltheguys/slate-tools": "latest",
+    "@calltheguys/ctg-slate-tools": "latest",
     "babel-preset-shopify": "latest",
     "eslint-plugin-shopify": "latest",
     "stylelint-config-prettier": "latest",
